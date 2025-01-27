@@ -1,6 +1,3 @@
-Aqui está o texto traduzido para o português:  
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a66fb5"/>
 
